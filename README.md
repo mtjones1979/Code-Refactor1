@@ -18,5 +18,6 @@
 <li>When I view the heading attributes</li>
 <li>Then they fall in sequential order</li>
 </ol>
+<h2>Screenshot</h2>
 <h2>Credits:</h2>
 <p>w3schools.com: helping to understand semantic html and web site accesibility </p>
